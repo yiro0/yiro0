@@ -22,20 +22,39 @@
 <!-- 🧑‍💻 About Me -->
 ## 👨‍💻 About Me
 
-🎓 Student of **Computer Science** at **Silesian University of Technology**  
-📍 Based in **Gliwice - Silesia, Poland**  
-💬 Passionate about systems programming, game development, and full-stack projects  
-📈 Currently exploring backend technologies, cloud services and tinkering with operating systems
++ 🎓 Student of **Computer Science** at **Silesian University of Technology**  
++ 📍 Based in **Gliwice - Silesia, Poland**  
++ 💬 Passionate about systems programming, game development, and full-stack projects  
++ 📈 Currently exploring backend technologies, cloud services and tinkering with operating systems  
++ 🎲 Fun fact — outside of code, I'm probably tweaking my Linux rice at 3AM for the 14th time this week...
 
+---
+
+## 🎯 Goals
+
+- Building and deploying robust apps using C# and ASP\.NET Core  
+- Mastering contenerization with Docker
+- Perfecting collaborative workflows using GitFlow
+- Deepening my knowledge on DevOps
+- Finally settling on the perfect setup of ~/.dotfiles for Linux system 
 ---
 
 ## 🛠️ Languages and tools:
 
-<p align="left"> 
+
+<p align="center"> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>   
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+</p>
+
+---
+
+<!-- 📊 GitHub Stats -->
+<p align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yiro0&layout=compact&theme=github_dark" width="48%" />
 </p>
