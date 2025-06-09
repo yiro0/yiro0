@@ -12,7 +12,7 @@
 </p>
 
 <!-- 👋 Greeting -->
-<h1 align="center">Hi there! It's nice to meet you 👋</h1>
+<h1 align="center">Hi there! It's great to see you here 👋</h1>
 
 <!-- 🖼️ Greeting GIF -->
 <p align="center">
@@ -23,13 +23,13 @@
 ## 👨‍💻 About Me
 
 🎓 Student of **Computer Science** at **Silesian University of Technology**  
-📍 Based in **Silesia, Poland**  
+📍 Based in **Gliwice - Silesia, Poland**  
 💬 Passionate about systems programming, game development, and full-stack projects  
 📈 Currently exploring backend technologies, cloud services and tinkering with operating systems
 
 ---
 
-### 🛠️ Languages and tools:
+## 🛠️ Languages and tools:
 
 <p align="left"> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -44,13 +44,3 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yiro0&show_icons=true&theme=github_dark" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yiro0&layout=compact&theme=github_dark" width="48%" />
-</p>
-
