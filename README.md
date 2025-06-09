@@ -23,8 +23,7 @@
 ## 👨‍💻 About Me
 
 + 🎓 I'am a third year engineering Student in **Computer Science** at **Silesian University of Technology**  
-+ 📍 Based in **Gliwice - Silesia, Poland**  
-+ 💬 Passionate about systems programming, game development, and full-stack projects  
++ 💬 Passionate about systems programming, game development, and crafting slick desktop apps  
 + 📈 Currently exploring backend technologies, cloud services and tinkering with operating systems  
 + 🎲 Fun fact — outside of code, I'm probably tweaking my Linux rice at 3AM for the 14th time this week...
 
