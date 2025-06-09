@@ -22,7 +22,7 @@
 <!-- 🧑‍💻 About Me -->
 ## 👨‍💻 About Me
 
-+ 🎓 Student of **Computer Science** at **Silesian University of Technology**  
++ 🎓 I'am a third yearengineering Student in **Computer Science** at **Silesian University of Technology**  
 + 📍 Based in **Gliwice - Silesia, Poland**  
 + 💬 Passionate about systems programming, game development, and full-stack projects  
 + 📈 Currently exploring backend technologies, cloud services and tinkering with operating systems  
