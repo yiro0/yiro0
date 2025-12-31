@@ -12,7 +12,7 @@
 </p>
 
 <!-- 👋 Greeting -->
-<h1 align="center">Hi there! It's great to see you here 👋</h1>
+<h1 align="center">Hi, hello there! It's great to see you 👋</h1>
 
 <!-- 🖼️ Greeting GIF -->
 <p align="center">
@@ -22,21 +22,18 @@
 <!-- 🧑‍💻 About Me -->
 ## 👨‍💻 About Me
 
-+ 🎓 I'am a third year engineering Student in **Computer Science** at **Silesian University of Technology**  
-+ 💬 Passionate about systems programming, game development, and crafting slick desktop apps  
++ 🎓 I'am a fourth year engineering Student in **Computer Science** at **Silesian University of Technology**  
++ 💬 Passionate about operating systems tweaking, game development, and crafting app systems  
 + 📈 Currently exploring backend technologies, cloud services and tinkering with operating systems  
-+ 🎲 Fun fact — outside of code, I'm probably tweaking my Linux rice at 3AM for the 14th time this week...
++ 🎲 Fun fact - outside of code, I'm probably tinkering with Linux at 4AM for the 14th time this week... (no configuration is perfect)
 
----
 
 ## 🎯 Goals
 
 - Building and deploying robust apps using C# and ASP\.NET Core  
 - Mastering contenerization with Docker
 - Perfecting collaborative workflows using GitFlow
-- Deepening my knowledge on DevOps
 - Finally settling on the perfect setup of ~/.dotfiles for Linux system 
----
 
 ## 🛠️ Languages and tools:
 
@@ -48,9 +45,4 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>   
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-</p>
-
-<p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yiro0&layout=compact&theme=github_dark" width="48%" />
 </p>
