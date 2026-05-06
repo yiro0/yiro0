@@ -22,7 +22,7 @@
 <!-- 🧑‍💻 About Me -->
 ## 👨‍💻 About Me
 
-+ 🎓 I'am a fourth year engineering Student in **Computer Science** at **Silesian University of Technology**  
++ 🎓 I'am an fourth year engineering Student in **Computer Science** at **Silesian University of Technology**  
 + 💬 Passionate about operating systems tweaking, game development, and crafting app systems  
 + 📈 Currently exploring backend technologies, cloud services and tinkering with operating systems  
 + 🎲 Fun fact - outside of code, I'm probably tinkering with Linux at 4AM for the 14th time this week... (no configuration is perfect)
@@ -38,7 +38,7 @@
 ## 🛠️ Languages and tools:
 
 
-<p align="center"> 
+<p align="left"> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
